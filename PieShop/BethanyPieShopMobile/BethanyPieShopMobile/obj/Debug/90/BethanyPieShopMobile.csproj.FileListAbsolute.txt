@@ -1,0 +1,595 @@
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile.apk
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile-Signed.apk
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.Core.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\build.props
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\adb.props
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csprojAssemblyReference.cache
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\resourcepaths.cache
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res.flag
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\fe34eab387a6263842b042304ad88bacec239795.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\631b8b92914be74b04a6e49277da2b0554a48ff8.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\04c2335471842868dc3f4d26ad21e8736c8ce578.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\04bb5c113f14c5f10167fe2a9ebe3a6abba8ab5a.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\2f73ebc04ef8841decc688e5c355d0018a8ce00c.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\5d8207d18708e960ae1d77f7eab689a1dcebcb9a.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\3f63388a1976e44711ebde97ef2dc7c2268324e3.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\1b50da79c04dc6ebae22f29bd57a40e84f9c88ed.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\a27eea7cb718082eeb3dc0c5251fb9d21a1af93d.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\fe34eab387a6263842b042304ad88bacec239795.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\631b8b92914be74b04a6e49277da2b0554a48ff8.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\04c2335471842868dc3f4d26ad21e8736c8ce578.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\04bb5c113f14c5f10167fe2a9ebe3a6abba8ab5a.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\2f73ebc04ef8841decc688e5c355d0018a8ce00c.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\5d8207d18708e960ae1d77f7eab689a1dcebcb9a.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\3f63388a1976e44711ebde97ef2dc7c2268324e3.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\1b50da79c04dc6ebae22f29bd57a40e84f9c88ed.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\a27eea7cb718082eeb3dc0c5251fb9d21a1af93d.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\compiled.flata
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\R.txt
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\R.cs.flag
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csproj.CoreCompileInputs.cache
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csproj.CopyComplete
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\com.companyname.bethanypieshopmobile.apk
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\activity_main.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\colors.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\strings.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\styles.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_detail.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\drawable\patternwide.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_menu.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_viewholder.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\drawable\bethanylogo.png
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\cart_viewholder.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\cart.xml
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\uploadflags.txt
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\BethanyPieShopMobile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\BethanyPieShopMobile.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\netstandard.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Data.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\BethanyPieShopMobile.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\BethanyPieShopMobile.Core.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\link.flag
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.Core.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\machine.config
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\static.flag
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\buildid.txt
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md531127bb91447992ebf3189ccfbb72edd\CartViewHolder.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md531127bb91447992ebf3189ccfbb72edd\PieViewHolder.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md502266ed8641d350fc4b824b42b6bdcb5\CartActivity.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md502266ed8641d350fc4b824b42b6bdcb5\MainActivity.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md502266ed8641d350fc4b824b42b6bdcb5\PieDetailActivity.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md502266ed8641d350fc4b824b42b6bdcb5\PieMenuActivity.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5f309265de658d3227a35c79e5cad6919\PieAdapter.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5f309265de658d3227a35c79e5cad6919\ShoppingCartAdapter.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\com\companyname\bethanypieshopmobile\R.java
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\classes.dex
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile.apk
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile-Signed.aab
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile-Signed.apk
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\BethanyPieShopMobile.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\build.props
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\adb.props
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csprojAssemblyReference.cache
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res.flag
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\CC0187F835366E45.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\00CD36A30B36490D.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\10DC8B865C363DED.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\C3F40522DD10C296.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\2FE92E3A8E774CB7.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\6BAD41F39B77518F.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\C0AC25DEBD738743.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\84E84A17A8739A7B.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\94F9F732FF73EE9B.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\CC0187F835366E45.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\00CD36A30B36490D.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\10DC8B865C363DED.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\C3F40522DD10C296.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\2FE92E3A8E774CB7.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\6BAD41F39B77518F.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\C0AC25DEBD738743.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\84E84A17A8739A7B.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\94F9F732FF73EE9B.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\flata\compiled.flata
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\R.txt
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\R.cs.flag
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csproj.CopyComplete
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\com.companyname.bethanypieshopmobile.apk
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\base.zip
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\com.companyname.bethanypieshopmobile.aab
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\com.companyname.bethanypieshopmobile.apks
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\activity_main.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\colors.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\strings.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\values\styles.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_detail.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\drawable\patternwide.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_menu.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\pie_viewholder.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\drawable\bethanylogo.png
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\cart_viewholder.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\res\layout\cart.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\uploadflags.txt
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\resolvedassemblies.hash
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\BethanyPieShopMobile.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\__environment__.txt
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\assets\machine.config
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\static.flag
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\buildid.txt
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.x86.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.x86_64.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc6420f75b42802dba84\CartActivity.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc6420f75b42802dba84\MainActivity.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc6420f75b42802dba84\PieDetailActivity.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc6420f75b42802dba84\PieMenuActivity.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64d823261bf5bb90b0\PieAdapter.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64d823261bf5bb90b0\ShoppingCartAdapter.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc648ebf3879015ad15e\CartViewHolder.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc648ebf3879015ad15e\PieViewHolder.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\packaged_resources
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\src\com\companyname\bethanypieshopmobile\R.java
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.x86.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\environment.x86_64.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\bin\classes.dex
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\bin\Debug\com.companyname.bethanypieshopmobile.aab
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\BethanyPieShopMobile.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.x86.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.x86.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp

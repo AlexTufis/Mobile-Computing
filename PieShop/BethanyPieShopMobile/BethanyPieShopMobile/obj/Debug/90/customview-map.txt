@@ -1,0 +1,39 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.v7.widget.RecyclerView;obj\Debug\90\res\layout\cart.xml
+android.support.v7.widget.RecyclerView;obj\Debug\90\res\layout\pie_menu.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\activity_main.xml
+Button;obj\Debug\90\res\layout\pie_detail.xml
+cache-path;C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+EditText;obj\Debug\90\res\layout\pie_detail.xml
+external-cache-path;C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+ImageView;obj\Debug\90\res\layout\activity_main.xml
+ImageView;obj\Debug\90\res\layout\cart_viewholder.xml
+ImageView;obj\Debug\90\res\layout\pie_detail.xml
+ImageView;obj\Debug\90\res\layout\pie_viewholder.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;obj\Debug\90\res\layout\activity_main.xml
+LinearLayout;obj\Debug\90\res\layout\cart.xml
+LinearLayout;obj\Debug\90\res\layout\cart_viewholder.xml
+LinearLayout;obj\Debug\90\res\layout\pie_detail.xml
+LinearLayout;obj\Debug\90\res\layout\pie_menu.xml
+LinearLayout;obj\Debug\90\res\layout\pie_viewholder.xml
+paths;C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\cart.xml
+TextView;obj\Debug\90\res\layout\cart_viewholder.xml
+TextView;obj\Debug\90\res\layout\pie_detail.xml
+TextView;obj\Debug\90\res\layout\pie_menu.xml
+TextView;obj\Debug\90\res\layout\pie_viewholder.xml

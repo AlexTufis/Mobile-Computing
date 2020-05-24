@@ -1,0 +1,17 @@
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.deps.json
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.pdb
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.AssemblyInfoInputs.cache
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.AssemblyInfo.cs
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.dll
+C:\Users\Chandan\Source\Repos\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.deps.json
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\bin\Debug\netstandard2.0\BethanyPieShopMobile.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.csprojAssemblyReference.cache
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.AssemblyInfoInputs.cache
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.AssemblyInfo.cs
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.dll
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.pdb
+C:\Users\alex_\Downloads\BethanyPieShopMobile (1)\BethanyPieShopMobile\BethanyPieShopMobile.Core\obj\Debug\netstandard2.0\BethanyPieShopMobile.Core.csproj.CoreCompileInputs.cache

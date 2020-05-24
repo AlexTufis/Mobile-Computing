@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mIntil+NIIf19tyPMVK/08y4L4DP5qDrCD7AE2bhftvYu/+ZdC9pl6WofRmzVpGEf70/Eo1MU3g+8zfrQT1CtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex_\\Downloads\\BethanyPieShopMobile (1)\\BethanyPieShopMobile\\BethanyPieShopMobile.Core\\BethanyPieShopMobile.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
